@@ -1,6 +1,6 @@
 {
   "name": "reactjs-progressbar-linear",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It shows task progress in a linear fashion.",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/interleap/reactjs-progressbar-linear/issues"
   },
-"peerDependencies": {
+  "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
