@@ -9,4 +9,4 @@ It diplays the current progress of task.
 
 Pass a prop called progress with the value percentage/100;
 
-eg : <LinearProgress progress={0.10}/> for 10% progress
+eg : pass prop progress as progress={0.10} for 10% progress
